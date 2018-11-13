@@ -3,8 +3,11 @@ This was a hack I wrote and used to play online trivia games
 
 ## Libraries used
 [pyscreenshot](https://pypi.org/project/pyscreenshot/)
+
 [pytesseract](https://pypi.org/project/pytesseract/)
+
 [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+
 [selenium](https://selenium-python.readthedocs.io/)
 
 
